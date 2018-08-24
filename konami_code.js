@@ -11,7 +11,7 @@ function init() {
         alert("Congratulations")
       }
     }
-    
+
   })
   // Write your JavaScript code inside the init() function
 
